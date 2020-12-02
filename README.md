@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <img src="https://i.ibb.co/xSxnsNR/Adicionar-um-subt-tulo-5.png">
 
+### GitHub Stats
+
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&theme=synthwave&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&theme=jolly&hide=stars" />
 </a>
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&layout=compact&show_icons=true&theme=synthwave" alt=Thalias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&layout=compact&show_icons=true&theme=jolly" alt=Thalias's GitHub Stats" />
 </a>
 <br>
 
