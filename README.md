@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.ibb.co/qM5swq7/Adicionar-um-subt-tulo.png">
+<img src="https://i.ibb.co/HBm9vq4/Adicionar-um-subt-tulo-3.png">
 
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&theme=graywhite&hide=stars" />
