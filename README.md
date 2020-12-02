@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&theme=jolly&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&theme=omni&hide=stars" />
 </a>
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&layout=compact&show_icons=true&theme=jolly" alt=Thalias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&layout=compact&show_icons=true&theme=omni" alt=Thalias's GitHub Stats" />
 </a>
 
 ### Find me 
