@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/thaliaberger/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-59405C?style=flat&logo=linkedin&logoColor=white">
   </a>
-  
   <a href="https://thaliaberger.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-59405C?style=flat">
   </a>
+  <a href="mailto:berger.thalia@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-59405C?style=flat&logo=gmail&logoColor=white">
+  </a>
+  
 <br>
+
 <a href="https://github.com/thaliaberger/thaliaberger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=59405C" alt=Thalias's GitHub Stats" />
 </a>
