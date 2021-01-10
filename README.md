@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 <map name="image-map">
     <area target="_blank" alt="portfolio" href="https://thaliaberger.vercel.app/" coords="1354,127,81" shape="circle">
 </map>
-<map name="image-map">
-    <area target="_blank" alt="github" href="https://github.com/thaliaberger" coords="1615,127,81" shape="circle">
-</map>
-<map name="image-map">
-    <area target="_blank" alt="linkedin" href="https://www.linkedin.com/in/thaliaberger/" coords="1872,127,81" shape="circle">
-</map>
+
 
 ### GitHub Stats
 
