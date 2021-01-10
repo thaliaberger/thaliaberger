@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co/V99kmwR/GitHub.png" usemap="#image-map">
-<map name="image-map">
-    <area target="_blank" alt="portfolio" href="https://thaliaberger.vercel.app/" coords="1354,127,81" shape="circle">
-</map>
-
+<img src="https://i.ibb.co/vz0Th1V/Git-Hub-1.png">
 
 ### GitHub Stats
 
