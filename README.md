@@ -35,12 +35,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=59405C" />
 </a>
 
-
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node%20js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-52b7d3?style=flat&logo=react&logoColor=white)
 ![AdobePS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
