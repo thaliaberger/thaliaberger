@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=B52B65&text_color=FFD4D3&icon_color=B52B65&bg_color=3C2C3E" alt=Thalias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=845f89&text_color=6c4c70&icon_color=B52B65&bg_color=3C2C3E" alt=Thalias's GitHub Stats" />
 </a>
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=B52B65&text_color=FFD4D3&icon_color=B52B65&bg_color=3C2C3E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=845f89&text_color=6c4c70&icon_color=614166&bg_color=3C2C3E" />
 </a>
+
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
