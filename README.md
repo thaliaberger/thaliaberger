@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=7f507d&text_color=6c4c70&icon_color=B52B65&bg_color=3C2C3E" alt=Thalias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=6a526d&text_color=6a526d&icon_color=6a526d&bg_color=3C2C3E" alt=Thalias's GitHub Stats" />
 </a>
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=7f507d&text_color=6c4c70&icon_color=614166&bg_color=3C2C3E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=6a526d&text_color=6a526d&icon_color=6a526d&bg_color=3C2C3E" />
 </a>
 
 
