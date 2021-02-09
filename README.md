@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co/hHP69Jc/Design-sem-nome.png">
+<img src="https://i.ibb.co/rZdWBsp/Git-Hub-1.png">
 
 <a href="https://www.linkedin.com/in/thaliaberger/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-59405C?style=flat&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://thaliaberger.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-59405C?style=flat">
+  <img src="https://img.shields.io/badge/-Portfolio-2D2D2F?style=flat">
   </a>
   <a href="mailto:berger.thalia@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-59405C?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gmail-2D2D2F?style=flat&logo=gmail&logoColor=white">
   </a>
   
 <br>
 
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=6a526d&text_color=6a526d&icon_color=6a526d&bg_color=3C2C3E" alt=Thalias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" alt=Thalias's GitHub Stats" />
 </a>
 <a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=6a526d&text_color=6a526d&icon_color=6a526d&bg_color=3C2C3E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" />
 </a>
 
 
