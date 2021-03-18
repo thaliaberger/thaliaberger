@@ -28,14 +28,24 @@ Here are some ideas to get you started:
   
 <br>
 
-<a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" alt=Thalias's GitHub Stats" />
-</a>
-<a href="https://github.com/thaliaberger/thaliaberger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&line_height=27&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F" />
-</a>
-
-
+#### View my stats on Github
+<p align="center">
+  <a href="https://github.com/thaliaberger/thaliaberger">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F"
+    />
+  </a>
+  
+  <a href="https://github.com/thaliaberger/thaliaberger">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F&layout=compact&theme=radical"
+    />
+  </a>
+</p>
 
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
