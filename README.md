@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   
 <br>
 
-#### View my stats on Github
 <p align="center">
   <a href="https://github.com/thaliaberger/thaliaberger">
     <img
@@ -52,11 +51,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-52b7d3?style=flat&logo=react&logoColor=white)
-![AdobePS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-563D7C?logo=react%20router)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-FF26BE?style=flat&logo=adobe%20xd&logoColor=white)
 
 
