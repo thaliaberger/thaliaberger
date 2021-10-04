@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co/gmHHzf9/new.png">
+<img src="https://i.ibb.co/Wt5mYGj/new.png">
 
 <a href="https://www.linkedin.com/in/thaliaberger/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-535D6B?style=flat&logo=linkedin&logoColor=white">
