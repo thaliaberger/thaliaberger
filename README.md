@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=535D6B"
+      src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&count_private=true&title_color=f0f2f4&text_color=f0f2f4&icon_color=f0f2f4&bg_color=535D6B"
     />
   </a>
   
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=535D6B&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=f0f2f4&text_color=f0f2f4&icon_color=f0f2f4&bg_color=535D6B&layout=compact&theme=radical"
     />
   </a>
 </p>
