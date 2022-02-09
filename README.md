@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co/FbnMKZQ/new.png">
+<img src="https://i.ibb.co/vskj2vf/GitHub.png">
 
 <a href="https://www.linkedin.com/in/thaliaberger/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-535D6B?style=flat&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-CDCDCD?style=flat&logo=linkedin&logoColor=black">
   </a>
   <a href="https://thaliaberger.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-535D6B?style=flat">
+  <img src="https://img.shields.io/badge/-Portfolio-CDCDCD?style=flat">
   </a>
   <a href="mailto:berger.thalia@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-535D6B?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gmail-CDCDCD?style=flat&logo=gmail&logoColor=black">
   </a>
   
 <br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&count_private=true&title_color=f0f2f4&text_color=f0f2f4&icon_color=f0f2f4&bg_color=535D6B"
+      src="https://github-readme-stats.vercel.app/api?username=thaliaberger&show_icons=true&count_private=true&title_color=141414&text_color=141414&icon_color=141414&bg_color=CDCDCD"
     />
   </a>
   
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=f0f2f4&text_color=f0f2f4&icon_color=f0f2f4&bg_color=535D6B&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaberger&hide=java,html&title_color=141414&text_color=141414&icon_color=141414&bg_color=CDCDCD&layout=compact&theme=radical"
     />
   </a>
 </p>
