@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co/vskj2vf/GitHub.png">
 
 <a href="https://www.linkedin.com/in/thaliaberger/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-D4CFD8?style=flat&logo=linkedin&logoColor=black">
-  </a>
-  <a href="https://thaliaberger.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-D4CFD8?style=flat">
   </a>
   <a href="mailto:berger.thalia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D4CFD8?style=flat&logo=gmail&logoColor=black">
